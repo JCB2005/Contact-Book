@@ -1,0 +1,2 @@
+# Ignore 'temps.py' as it contains the encryption key
+temps.py
